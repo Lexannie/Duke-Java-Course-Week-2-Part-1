@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Part1
+comment1.params=dna
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment1.text=\r\n\ \ findSimpleGene\ returns\ String\ of\ gene\ found\ between\ START\ and\ STOP\ codons\ in\ dna\r\n\r\n\ @param\ \ y\ \ \ String\ containing\ dna\ sequence\ to\ search\r\n\ @return\ \ \ \ \ gene\ if\ found\ or\ ""\ if\ not\ found\r\n
+comment2.params=
+comment2.target=void\ testFindSimpleGene()
+comment2.text=\r\n\ \ testFindSimpleGene\ \r\n\ \ tests\ findSimpleGene\ method\r\n\ \ prints\ out\ dna\ sequence\ given\ as\ parameter\ to\ findSimpleGene\r\n\ \ prints\ out\ gene\ if\ found\ in\ given\ dna\ sequecnce\r\n\r\n\ @param\ \ \ \ \ no\ parameters\r\n\ @return\ \ \ \ void\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
