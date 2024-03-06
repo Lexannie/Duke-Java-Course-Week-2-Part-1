@@ -2,8 +2,12 @@
 comment0.target=Part3
 comment1.params=stringa\ stringb
 comment1.target=boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
-comment2.params=
-comment2.target=void\ testing()
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
+comment2.params=stringa\ stringb
+comment2.target=java.lang.String\ lastPart(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ lastPart\ returns\ part\ of\ stringb\ that\ follows\ stringa\ \r\n\ if\ stringa\ not\ found\ returns\ stringb\r\n\r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=void\ testing()
+comment3.text=\r\n\ testing\ contains\ test\ cases\ wwith\ calls\ to\ test\ twoOccurrences\ and\ lastPart\r\n\r\n\ @param\ \ none\r\n\ @return\ void\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
